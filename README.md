@@ -1,6 +1,6 @@
 # Sprunki Infected: An Exciting Puzzle Adventure Game
 
-![Sprunki Infected](https://sprunkiinfected.org/images/logo.png)
+![Sprunki Infected](https://sprunkiinfected.org/img/s21080.jpg)
 
 ## Introduction
 
