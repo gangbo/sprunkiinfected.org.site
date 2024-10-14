@@ -1,0 +1,114 @@
+{
+  "Metadata": {
+    "title": "Sprunki Infectado: Emocionante Juego de Aventura y Rompecabezas",
+    "description": "Sumérgete en el emocionante mundo de Sprunki Infectado, un cautivador juego de rompecabezas donde controlas a un travieso Sprunki para recolectar Sprunkies saludables y derrotar a los infectados. ¡Experimenta un juego rápido, niveles desafiantes y diversión adictiva!",
+    "keywords": "Sprunki Infectado, juego Sprunki Infectado, juego de rompecabezas, juego de aventura, desafío de tiempo, juego de colección"
+  },
+  "hero": {
+    "title": "Sprunki Infectado: Domina el Arte de Recolectar Sprunkies",
+    "subtitle": "¡Emprende una emocionante aventura de rompecabezas en un mundo de Sprunkies!"
+  },
+  "introduction": {
+    "title": "Introducción al Juego",
+    "content": "Sprunki Infectado es un cautivador juego de rompecabezas que te sumerge en un vibrante mundo de Sprunkies. Como un travieso Sprunki, tu misión es navegar por niveles desafiantes, recolectando Sprunkies saludables y derrotando a los infectados antes de que se acabe el tiempo. Con su juego rápido, gráficos coloridos y música pegajosa, Sprunki Infectado ofrece una experiencia adictiva y gratificante para jugadores de todas las edades."
+  },
+  "howToPlay": {
+    "title": "Cómo Jugar a Sprunki Infectado",
+    "steps": [
+      "Controla a Sprunki: Usa el mouse o el teclado para mover a Sprunki a la izquierda, derecha, arriba y abajo.",
+      "Recolecta Sprunkies: Busca y recolecta Sprunkies saludables dispersos por los niveles.",
+      "Derrota a Sprunkies Infectados: Evita o salta sobre las cabezas de los Sprunkies infectados para derrotarlos.",
+      "Vence al Reloj: Completa cada nivel antes de que se acabe el tiempo.",
+      "Aumenta Tu Puntuación: Recolecta todos los Sprunkies y derrota a los infectados rápidamente para obtener puntuaciones más altas."
+    ]
+  },
+  "controls": {
+    "title": "Controles del Juego",
+    "items": [
+      "Mouse: Mueve el mouse para controlar la dirección de Sprunki",
+      "Teclado: Usa las teclas de flecha (↑↓←→) para mover a Sprunki",
+      "Barra Espaciadora: Saltar (si aplica)"
+    ]
+  },
+  "features": {
+    "title": "Características Clave",
+    "items": [
+      "Diseños de niveles diversos y desafiantes",
+      "Emocionantes desafíos basados en el tiempo",
+      "Diseños de personajes lindos y atractivos",
+      "Controles simples e intuitivos",
+      "Gráficos y animaciones hermosas",
+      "Música de fondo pegajosa e inmersiva",
+      "Dificultad progresiva para mantenerte enganchado"
+    ]
+  },
+  "screenshots": {
+    "title": "Capturas de Pantalla del Juego"
+  },
+  "playerReviews": {
+    "title": "Lo Que Dicen los Jugadores sobre Sprunki Infectado",
+    "reviews": [
+      {
+        "content": "¡Sprunki Infectado es uno de los juegos de rompecabezas más adictivos que he jugado!",
+        "author": "GameEnthusiast123"
+      },
+      {
+        "content": "Los gráficos son hermosos y la música es tan pegajosa. ¡Es un placer jugar!",
+        "author": "DesignerLi"
+      },
+      {
+        "content": "Los diseños de niveles son muy creativos. Descubro algo nuevo cada vez que juego.",
+        "author": "VeteranGamer789"
+      },
+      {
+        "content": "Fácil de aprender pero desafiante de dominar. ¡Perfecto para juegos casuales!",
+        "author": "NewbieGamer456"
+      },
+      {
+        "content": "El límite de tiempo agrega una emoción real al juego. ¡Es tan emocionante!",
+        "author": "AdventureFan22"
+      },
+      {
+        "content": "A mis hijos les encantan los diseños de personajes lindos. ¡Es un éxito con toda la familia!",
+        "author": "ParentGamer77"
+      },
+      {
+        "content": "No puedo dejar de jugar solo un nivel más. ¡Es increíblemente divertido!",
+        "author": "CasualGamerX"
+      },
+      {
+        "content": "Perfecto para sesiones de juego rápidas. El ritmo es justo para personas ocupadas.",
+        "author": "OfficeDweller99"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Para qué grupo de edad es adecuado Sprunki Infectado?",
+        "answer": "Sprunki Infectado es adecuado para jugadores de todas las edades. La dificultad del juego se puede ajustar para acomodar diferentes niveles de habilidad."
+      },
+      {
+        "question": "¿En qué plataformas está disponible Sprunki Infectado?",
+        "answer": "Sprunki Infectado está disponible actualmente en plataformas PC, Mac, iOS y Android, para que puedas disfrutar del juego donde quieras."
+      },
+      {
+        "question": "¿Cómo desbloqueo nuevos niveles en Sprunki Infectado?",
+        "answer": "Los nuevos niveles se desbloquean completando los objetivos del nivel actual. Algunos niveles especiales pueden requerir recolectar una cierta cantidad de estrellas o lograr logros específicos."
+      },
+      {
+        "question": "¿Hay un modo multijugador en Sprunki Infectado?",
+        "answer": "Actualmente, Sprunki Infectado se centra en la experiencia para un solo jugador. Sin embargo, estamos considerando agregar un modo multijugador en futuras actualizaciones."
+      },
+      {
+        "question": "¿Cómo puedo mejorar mi puntuación en Sprunki Infectado?",
+        "answer": "Para mejorar tu puntuación, intenta completar los niveles rápidamente, recoge todos los Sprunkies saludables y derrota a todos los Sprunkies infectados exitosamente. Evitar daños también te dará puntos extra."
+      },
+      {
+        "question": "¿Sprunki Infectado recibe actualizaciones de contenido regularmente?",
+        "answer": "Sí, nuestro equipo de desarrollo lanza regularmente nuevos niveles, personajes y modos de juego para mantener el juego fresco y desafiante. Sigue nuestro sitio web oficial y redes sociales para obtener la información más reciente sobre actualizaciones."
+      }
+    ]
+  }
+}

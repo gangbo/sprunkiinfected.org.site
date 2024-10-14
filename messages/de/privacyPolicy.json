@@ -1,0 +1,30 @@
+{
+    "Metadata": {
+        "title": "Datenschutzrichtlinie | Sprunki Infected",
+        "description": "Erfahren Sie mehr über unser Engagement zum Schutz Ihrer Privatsphäre, während Sie das aufregende Puzzle-Abenteuer von Sprunki Infected genießen."
+    },
+    "title": "Datenschutzrichtlinie",
+    "subtitle": "Schutz Ihrer Daten in der Welt von Sprunki Infected",
+    "sections": {
+        "informationCollection": {
+            "title": "Datenerfassung",
+            "content": "In Sprunki Infected erfassen wir spielbezogene Daten wie Ihren Spielfortschritt, die Zeit zur Beendigung von Levels und Ihre Entscheidungen im Spiel. Diese Informationen helfen uns, das Gameplay zu verbessern und Ihr Spielerlebnis individuell zu gestalten."
+        },
+        "dataSecurity": {
+            "title": "Datensicherheit",
+            "content": "Wir setzen robuste Sicherheitsmaßnahmen ein, um Ihre Daten zu schützen, und stellen sicher, dass sie genauso sicher sind wie die gesunden Sprunkies, die Sie sammeln. Unser Team überwacht und aktualisiert ständig unsere Sicherheitsprotokolle, um die Integrität Ihrer Informationen zu gewährleisten."
+        },
+        "cookieUsage": {
+            "title": "Verwendung von Cookies",
+            "content": "Cookies werden verwendet, um sich Ihre Spieleinstellungen und -präferenzen zu merken, ähnlich wie Sprunki sich das Layout jedes Puzzle-Levels merkt. Diese Cookies verbessern Ihr Spielerlebnis, indem sie ein individuelleres Abenteuer bieten."
+        },
+        "policyUpdate": {
+            "title": "Aktualisierungen der Richtlinie",
+            "content": "Wir können diese Datenschutzrichtlinie gelegentlich aktualisieren, um Änderungen in unseren Praktiken oder neue Funktionen in Sprunki Infected widerzuspiegeln. Wir empfehlen, diese Richtlinie regelmäßig zu überprüfen, um informiert zu bleiben, wie wir mit Ihren Informationen umgehen."
+        },
+        "noLogin": {
+            "title": "Keine Anmeldung erforderlich",
+            "content": "Sprunki Infected ist für sofortiges Spielen ausgelegt, ohne dass ein Konto erstellt oder angemeldet werden muss. Sie können Ihr Sprunki-Abenteuer sofort in Ihrem Browser starten, ohne persönliche Identifikationsinformationen eingeben zu müssen."
+        }
+    }
+}

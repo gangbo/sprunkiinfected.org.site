@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Kullanım Koşulları | Sprunki Bulaşmış",
+    "description": "Sprunkileri toplamaya ve bulmacaları çözmeye başlamadan önce kuralları anlayın."
+  },
+  "title": "Kullanım Koşulları",
+  "subtitle": "Adil ve Eğlenceli Bir Sprunki Bulaşmış Macerası İçin Rehberiniz",
+  "sections": {
+    "acceptance": {
+      "title": "Meydan Okumayı Kabul Etme",
+      "content": "Sprunki Bulaşmış dünyasına girerek oyun kurallarımıza uymayı kabul ediyorsunuz. Bunu sanal Sprunki kıyafetinizi giymek gibi düşünün - tam bir bulmaca çözme deneyimine kendinizi adamış oluyorsunuz!"
+    },
+    "userBehavior": {
+      "title": "Sprunki Görgü Kuralları",
+      "content": "Sanal Sprunki dünyamızda, iyi davranış hızlı düşünme kadar önemlidir. Adil oynayın, diğer oyuncularınıza saygılı olun ve oyun ortamını dostça tutun. Herhangi bir uygunsuzluk Sprunki evreninden yasaklanmanıza neden olabilir."
+    },
+    "disclaimer": {
+      "title": "Takibin Heyecanı",
+      "content": "Sprunki Bulaşmış, gerçek zamanlı bir Sprunki takibi kadar yoğun olabilir. Zorlu seviyelerden veya rekabetçi oyundan bunalmış hissederseniz sorumluluk kabul etmiyoruz. Unutmayın, bu sadece bir oyun - sizi strese sokmasına izin vermeyin!"
+    },
+    "modification": {
+      "title": "Sprunki Dünyasını Geliştirme",
+      "content": "Zaman zaman bu şartları güncelleyebiliriz, tıpkı yeni bulmacalar ve zorluklar sunduğumuz gibi. Değişikliklerden sonra oynamaya devam etmek, şartlarımızın yeni sürümünü kabul ettiğiniz anlamına gelir."
+    },
+    "noAccount": {
+      "title": "Kayıt Gerekmiyor",
+      "content": "Sprunki Bulaşmış anında oynanabilir bir oyundur - hesap gerektirmez! Tarayıcınızdan doğrudan aksiyona atılın. Ancak unutmayın, bir hesap olmadan ilerlemenizin ve başarılarınızın gelecekteki oturumlar için kaydedilmemesi mümkündür."
+    },
+    "intellectualProperty": {
+      "title": "Sprunki Sihirimiz",
+      "content": "Sprunki Bulaşmış'taki her şey - canlı grafiklerden etkileyici oyun mekaniklerine kadar - bizim benzersiz yaratımımızdır. Lütfen Sprunki Bulaşmış ekibinden açık izin almadan oyun öğelerimizi kopyalamaya, paylaşmaya veya değiştirmeye çalışmayın."
+    }
+  }
+}

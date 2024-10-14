@@ -1,0 +1,114 @@
+{
+  "Metadata": {
+    "title": "Sprunki Infected: Permainan Petualangan Puzzle yang Menegangkan",
+    "description": "Masuki dunia Sprunki Infected yang memikat, sebuah permainan puzzle di mana Anda mengendalikan Sprunki yang usil untuk mengumpulkan Sprunkies sehat dan mengalahkan yang terinfeksi. Rasakan permainan yang cepat, tingkat tantangan, dan kesenangan yang adiktif!",
+    "keywords": "Sprunki Infected, permainan Sprunki Infected, permainan puzzle, permainan petualangan, tantangan waktu, permainan koleksi"
+  },
+  "hero": {
+    "title": "Sprunki Infected: Kuasai Seni Koleksi Sprunki",
+    "subtitle": "Memulai petualangan puzzle yang mendebarkan di dunia Sprunkies!"
+  },
+  "introduction": {
+    "title": "Pengantar Permainan",
+    "content": "Sprunki Infected adalah permainan puzzle yang memikat yang membawa Anda ke dalam dunia Sprunkies yang penuh warna. Sebagai Sprunki yang usil, misi Anda adalah berkelana melalui tingkat yang menantang, mengumpulkan Sprunkies sehat dan mengalahkan yang terinfeksi sebelum waktu habis. Dengan permainannya yang cepat, grafis berwarna, dan musik yang menarik, Sprunki Infected menawarkan pengalaman adiktif dan memuaskan untuk pemain dari segala usia."
+  },
+  "howToPlay": {
+    "title": "Cara Memainkan Sprunki Infected",
+    "steps": [
+      "Kendalikan Sprunki: Gunakan mouse atau keyboard untuk menggerakkan Sprunki ke kiri, kanan, atas, dan bawah.",
+      "Kumpulkan Sprunkies: Cari dan kumpulkan Sprunkies sehat yang tersebar di seluruh tingkat.",
+      "Kalahkan Sprunkies yang Terinfeksi: Hindari atau lompat di atas kepala Sprunkies yang terinfeksi untuk mengalahkan mereka.",
+      "Kalahkan Jam: Selesaikan setiap tingkat sebelum batas waktu habis.",
+      "Tingkatkan Skor Anda: Kumpulkan semua Sprunkies dan kalahkan yang terinfeksi dengan cepat untuk skor yang lebih tinggi."
+    ]
+  },
+  "controls": {
+    "title": "Kontrol Permainan",
+    "items": [
+      "Mouse: Gerakkan mouse untuk mengendalikan arah Sprunki",
+      "Keyboard: Gunakan tombol panah (↑↓←→) untuk menggerakkan Sprunki",
+      "Spacebar: Lompat (jika berlaku)"
+    ]
+  },
+  "features": {
+    "title": "Fitur Utama",
+    "items": [
+      "Desain tingkat yang beragam dan menantang",
+      "Tantangan berdasarkan waktu yang mendebarkan",
+      "Desain karakter yang lucu dan menarik",
+      "Kontrol yang sederhana dan intuitif",
+      "Grafis dan animasi yang indah",
+      "Musik latar yang menarik dan imersif",
+      "Kesulitan yang meningkat untuk menjaga Anda tetap tertarik"
+    ]
+  },
+  "screenshots": {
+    "title": "Tangkapan Layar Permainan"
+  },
+  "playerReviews": {
+    "title": "Apa Kata Pemain Tentang Sprunki Infected",
+    "reviews": [
+      {
+        "content": "Sprunki Infected adalah salah satu permainan puzzle paling adiktif yang pernah saya mainkan!",
+        "author": "PenggemarGame123"
+      },
+      {
+        "content": "Grafisnya indah dan musiknya sangat catchy. Sangat menyenangkan untuk dimainkan!",
+        "author": "DesainerLi"
+      },
+      {
+        "content": "Desain tingkatnya sangat kreatif. Saya menemukan sesuatu yang baru setiap kali bermain.",
+        "author": "VeteranGamer789"
+      },
+      {
+        "content": "Mudah dimainkan tetapi menantang untuk dikuasai. Sempurna untuk permainan santai!",
+        "author": "NewbieGamer456"
+      },
+      {
+        "content": "Batas waktu memberikan sensasi nyata pada permainan. Sangat mendebarkan!",
+        "author": "PenggemarPetualangan22"
+      },
+      {
+        "content": "Anak-anak saya menyukai desain karakter yang lucu. Hit di seluruh keluarga!",
+        "author": "OrangTuaGamer77"
+      },
+      {
+        "content": "Saya tidak bisa berhenti bermain satu level lagi. Sangat menyenangkan!",
+        "author": "CasualGamerX"
+      },
+      {
+        "content": "Sempurna untuk sesi permainan singkat. Temponya pas untuk orang sibuk.",
+        "author": "PenghuniKantor99"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "questions": [
+      {
+        "question": "Grup usia berapa yang cocok untuk Sprunki Infected?",
+        "answer": "Sprunki Infected cocok untuk pemain segala usia. Kesulitan permainan dapat disesuaikan untuk mengakomodasi berbagai tingkat keterampilan."
+      },
+      {
+        "question": "Platform apa saja yang mendukung Sprunki Infected?",
+        "answer": "Sprunki Infected saat ini tersedia di platform PC, Mac, iOS, dan Android, memungkinkan Anda menikmati permainan di mana saja."
+      },
+      {
+        "question": "Bagaimana cara membuka tingkat baru di Sprunki Infected?",
+        "answer": "Tingkat baru terbuka dengan menyelesaikan tujuan tingkat yang ada. Beberapa tingkat khusus mungkin memerlukan pengumpulan sejumlah bintang atau pencapaian tertentu."
+      },
+      {
+        "question": "Apakah ada mode multipemain di Sprunki Infected?",
+        "answer": "Saat ini, Sprunki Infected fokus pada pengalaman pemain tunggal. Namun, kami mempertimbangkan untuk menambahkan mode multipemain di pembaruan berikutnya."
+      },
+      {
+        "question": "Bagaimana saya dapat meningkatkan skor saya di Sprunki Infected?",
+        "answer": "Untuk meningkatkan skor Anda, cobalah menyelesaikan tingkat dengan cepat, kumpulkan semua Sprunkies sehat, dan kalahkan semua Sprunkies yang terinfeksi dengan sukses. Menghindari kerusakan juga akan memberi Anda poin bonus."
+      },
+      {
+        "question": "Apakah Sprunki Infected menerima pembaruan konten reguler?",
+        "answer": "Ya, tim pengembang kami secara teratur merilis tingkat baru, karakter, dan mode permainan untuk menjaga permainan tetap segar dan menantang. Ikuti situs web resmi dan media sosial kami untuk informasi pembaruan terbaru."
+      }
+    ]
+  }
+}

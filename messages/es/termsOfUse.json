@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Términos de Uso | Sprunki Infected",
+    "description": "Entiende las reglas del juego antes de empezar a coleccionar Sprunkies y resolver acertijos en Sprunki Infected."
+  },
+  "title": "Términos de Uso",
+  "subtitle": "Tu Guía para una Aventura Justa y Divertida en Sprunki Infected",
+  "sections": {
+    "acceptance": {
+      "title": "Aceptando el Desafío",
+      "content": "Al ingresar al mundo de Sprunki Infected, aceptas cumplir con las reglas de nuestro juego. Piénsalo como ponerte tu traje virtual de Sprunki: te comprometes a vivir la experiencia completa de resolución de acertijos."
+    },
+    "userBehavior": {
+      "title": "Etiqueta Sprunki",
+      "content": "En nuestro mundo virtual de Sprunki, el buen comportamiento es tan importante como pensar rápido. Juega limpio, respeta a tus compañeros de juego y mantén un ambiente amigable. Cualquier mala conducta puede resultar en ser expulsado del universo Sprunki."
+    },
+    "disclaimer": {
+      "title": "La Emoción de la Persecución",
+      "content": "Sprunki Infected puede llegar a ser tan intenso como una persecución de Sprunki en tiempo real. No somos responsables si te sientes abrumado por niveles desafiantes o por el juego competitivo. Recuerda, es solo un juego: ¡no dejes que te estrese!"
+    },
+    "modification": {
+      "title": "Evolucionando el Mundo Sprunki",
+      "content": "Podríamos actualizar estos términos ocasionalmente, al igual que introducimos nuevos acertijos y desafíos. Continuar jugando después de los cambios significa que aceptas la nueva versión de nuestros términos."
+    },
+    "noAccount": {
+      "title": "No Se Requiere Registro",
+      "content": "Sprunki Infected es un juego de acceso instantáneo: ¡no necesitas cuenta! Salta directo a la acción desde tu navegador. Solo recuerda, sin una cuenta, tu progreso y logros podrían no guardarse para sesiones futuras."
+    },
+    "intellectualProperty": {
+      "title": "Nuestra Magia Sprunki",
+      "content": "Todo en Sprunki Infected, desde los gráficos vibrantes hasta las atractivas mecánicas de juego, es nuestra creación única. Por favor, no intentes copiar, compartir o modificar nuestros elementos del juego sin el permiso explícito del equipo de Sprunki Infected."
+    }
+  }
+}

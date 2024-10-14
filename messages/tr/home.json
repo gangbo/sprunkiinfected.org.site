@@ -1,0 +1,114 @@
+{
+    "Metadata": {
+        "title": "Sprunki Infected: Heyecan Verici Bulmaca Macera Oyunu",
+        "description": "Sprunki Infected'ın heyecan verici dünyasına dalın, yaramaz bir Sprunki'yi kontrol ederek sağlıklı Sprunkileri toplayın ve enfekte olanları yenin. Hızlı tempolu oyun, zorlu seviyeler ve bağımlılık yaratan eğlence deneyimi yaşayın!",
+        "keywords": "Sprunki Infected, Sprunki Infected oyunu, bulmaca oyunu, macera oyunu, zaman mücadelesi, koleksiyon oyunu"
+    },
+    "hero": {
+        "title": "Sprunki Infected: Sprunki Koleksiyon Sanatını Ustalıkla Yapın",
+        "subtitle": "Sprunkilerin dünyasında heyecan verici bir bulmaca macerasına atılın!"
+    },
+    "introduction": {
+        "title": "Oyun Tanıtımı",
+        "content": "Sprunki Infected, sizi Sprunkilerin renkli dünyasına çeken sürükleyici bir bulmaca oyunudur. Yaramaz bir Sprunki olarak göreviniz, zorlu seviyelerde gezinip sağlıklı Sprunkileri toplamak ve zaman dolmadan önce enfekte olanları yenmektir. Hızlı tempolu oynanışı, renkli grafikleri ve akılda kalıcı müziği ile Sprunki Infected, her yaştan oyuncuya bağımlılık yaratan ve ödüllendirici bir deneyim sunar."
+    },
+    "howToPlay": {
+        "title": "Sprunki Infected Nasıl Oynanır",
+        "steps": [
+            "Sprunki'yi Kontrol Et: Görünümünü ve yönünü değiştirmek için fareyi veya klavyeyi kullanın.",
+            "Sprunkileri Topla: Düzeylerde dağılmış sağlıklı Sprunkileri arayarak topla.",
+            "Enfekte Sprunkileri Yen: Enfekte Sprunkilerden kaçının veya onların üzerine zıplayarak yenin.",
+            "Zamana Karşı Yarış: Her seviyeyi zaman dolmadan tamamlayın.",
+            "Skorunu Artır: Tüm Sprunkileri toplayıp enfekte olanları hızla yenerek puanını artır."
+        ]
+    },
+    "controls": {
+        "title": "Oyun Kontrolleri",
+        "items": [
+            "Fare: Sprunki'nin yönünü kontrol etmek için fareyi hareket ettirin",
+            "Klavye: Sprunki'yi hareket ettirmek için ok tuşlarını (↑↓←→) kullanın",
+            "Boşluk Çubuğu: Zıplama (uygulanabilir ise)"
+        ]
+    },
+    "features": {
+        "title": "Temel Özellikler",
+        "items": [
+            "Çeşitli ve zorlu seviye tasarımları",
+            "Heyecan verici zaman bazlı zorluklar",
+            "Sevimli ve etkileyici karakter tasarımları",
+            "Basit ve sezgisel kontroller",
+            "Güzel grafikler ve animasyonlar",
+            "Akılda kalıcı ve etkileyici arka plan müziği",
+            "Sürekli artan zorluk seviyesi ile sizi meşgul eder"
+        ]
+    },
+    "screenshots": {
+        "title": "Oyun Ekran Görüntüleri"
+    },
+    "playerReviews": {
+        "title": "Oyuncuların Sprunki Infected Hakkında Söyledikleri",
+        "reviews": [
+            {
+                "content": "Sprunki Infected şimdiye kadar oynadığım en bağımlılık yaratan bulmaca oyunlarından biri!",
+                "author": "GameEnthusiast123"
+            },
+            {
+                "content": "Grafikler harika ve müzik çok akılda kalıcı. Oynamak büyük bir zevk!",
+                "author": "DesignerLi"
+            },
+            {
+                "content": "Seviye tasarımları çok yaratıcı. Her oynadığımda yeni bir şey keşfediyorum.",
+                "author": "VeteranGamer789"
+            },
+            {
+                "content": "Öğrenmesi kolay ama ustalaşması zor. Rahat oyunlar için mükemmel!",
+                "author": "NewbieGamer456"
+            },
+            {
+                "content": "Zaman sınırı oyuna gerçek bir heyecan katıyor. Çok heyecan verici!",
+                "author": "AdventureFan22"
+            },
+            {
+                "content": "Çocuklarım sevimli karakter tasarımlarını çok seviyor. Tüm aile için bir hit!",
+                "author": "ParentGamer77"
+            },
+            {
+                "content": "Bir seviyeyi daha oynamadan duramıyorum. İnanılmaz eğlenceli!",
+                "author": "CasualGamerX"
+            },
+            {
+                "content": "Hız uygun ve hızlı oyun seansları için mükemmel. Yoğun insanlar için ideal.",
+                "author": "OfficeDweller99"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "question": "Sprunki Infected hangi yaş grubu için uygundur?",
+                "answer": "Sprunki Infected, her yaştan oyuncuya uygundur. Oyunun zorluk seviyesi, farklı beceri seviyelerine uyum sağlamak için ayarlanabilir."
+            },
+            {
+                "question": "Sprunki Infected hangi platformlarda destekleniyor?",
+                "answer": "Sprunki Infected şu anda PC, Mac, iOS ve Android platformlarında mevcuttur. Oyunu gittiğiniz her yerde keyifle oynayabilirsiniz."
+            },
+            {
+                "question": "Sprunki Infected'da yeni seviyeler nasıl açılır?",
+                "answer": "Yeni seviyeler mevcut seviye hedeflerini tamamlayarak açılır. Bazı özel seviyeler, belirli sayıda yıldız toplamayı veya belirli başarılar elde etmeyi gerektirebilir."
+            },
+            {
+                "question": "Sprunki Infected'da çok oyunculu bir mod var mı?",
+                "answer": "Şu anda, Sprunki Infected tek oyunculu deneyimi odaklanmış durumda. Ancak, gelecekteki güncellemelerde çok oyunculu bir mod eklemeyi düşünüyoruz."
+            },
+            {
+                "question": "Sprunki Infected'da puanımı nasıl geliştirebilirim?",
+                "answer": "Puanınızı artırmak için seviyeleri hızlı tamamlama, tüm sağlıklı Sprunkileri toplama ve tüm enfekte olanları başarılı bir şekilde yenme çalışmalarına odaklanın. Hasardan kaçınarak ekstra puanlar kazanabilirsiniz."
+            },
+            {
+                "question": "Sprunki Infected düzenli içerik güncellemeleri alıyor mu?",
+                "answer": "Evet, geliştirici ekibimiz oyunu yenilikçi ve zorlu tutmak için düzenli olarak yeni seviyeler, karakterler ve oyun modları yayınlıyor. En son güncelleme bilgileri için resmi web sitemizi ve sosyal medyamızı takip edin."
+            }
+        ]
+    }
+}

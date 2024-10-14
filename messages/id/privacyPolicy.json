@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Kebijakan Privasi | Sprunki Terinfeksi",
+    "description": "Pelajari komitmen kami untuk melindungi privasi Anda saat Anda menikmati petualangan teka-teki yang mendebarkan dari Sprunki Terinfeksi."
+  },
+  "title": "Kebijakan Privasi",
+  "subtitle": "Melindungi Data Anda di Dunia Sprunki Terinfeksi",
+  "sections": {
+    "informationCollection": {
+      "title": "Pengumpulan Informasi",
+      "content": "Di Sprunki Terinfeksi, kami mengumpulkan data terkait permainan seperti kemajuan Anda, waktu penyelesaian level, dan pilihan dalam permainan. Informasi ini membantu kami meningkatkan gameplay dan menyesuaikan pengalaman bermain Anda."
+    },
+    "dataSecurity": {
+      "title": "Keamanan Data",
+      "content": "Kami menerapkan langkah-langkah keamanan yang kuat untuk melindungi data Anda, memastikan data tersebut seaman Sprunkies sehat yang Anda kumpulkan. Tim kami terus memantau dan memperbarui protokol keamanan kami untuk menjaga integritas informasi Anda."
+    },
+    "cookieUsage": {
+      "title": "Penggunaan Cookie",
+      "content": "Cookie digunakan untuk mengingat preferensi dan pengaturan permainan Anda, mirip dengan bagaimana Sprunki mengingat tata letak setiap level teka-teki. Cookie ini meningkatkan pengalaman bermain Anda dengan memberikan petualangan yang lebih personal."
+    },
+    "policyUpdate": {
+      "title": "Pembaruan Kebijakan",
+      "content": "Kami mungkin memperbarui kebijakan privasi ini dari waktu ke waktu untuk mencerminkan perubahan dalam praktik kami atau fitur baru di Sprunki Terinfeksi. Kami merekomendasikan untuk memeriksa kebijakan ini secara berkala agar tetap mengetahui bagaimana kami menangani informasi Anda."
+    },
+    "noLogin": {
+      "title": "Tidak Perlu Login",
+      "content": "Sprunki Terinfeksi dirancang untuk dimainkan secara langsung tanpa memerlukan pembuatan akun atau login. Anda dapat memulai petualangan Sprunki Anda langsung di peramban, tanpa perlu memberikan informasi identifikasi pribadi."
+    }
+  }
+}

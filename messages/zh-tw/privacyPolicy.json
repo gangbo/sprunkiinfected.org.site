@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "隱私政策 | Sprunki Infected",
+    "description": "了解我們在您享受 Sprunki Infected 的刺激拼圖冒險時保護您隱私的承諾。"
+  },
+  "title": "隱私政策",
+  "subtitle": "在 Sprunki Infected 世界中保護您的資料",
+  "sections": {
+    "informationCollection": {
+      "title": "資料收集",
+      "content": "在 Sprunki Infected 中，我們會收集與遊戲相關的資料，如您的進度、闖關時間和遊戲選擇。這些資訊有助於我們改進遊戲玩法並量身定制您的遊戲體驗。"
+    },
+    "dataSecurity": {
+      "title": "資料安全",
+      "content": "我們實施強大的安全措施來保護您的資料，確保它像您收集的健康 Sprunkies 一樣安全。我們的團隊不斷監控和更新我們的安全協議，以維持您資訊的完整性。"
+    },
+    "cookieUsage": {
+      "title": "Cookie 使用",
+      "content": "我們使用 Cookies 來記住您的遊戲偏好和設置，就像 Sprunki 記住每個拼圖關卡的佈局一樣。這些 Cookies 通過提供更個性化的冒險來提升您的遊戲體驗。"
+    },
+    "policyUpdate": {
+      "title": "政策更新",
+      "content": "我們可能會不時更新此隱私政策，以反映我們實踐中的變化或 Sprunki Infected 中的新功能。我們建議您定期查看此政策，以便了解我們如何處理您的資訊。"
+    },
+    "noLogin": {
+      "title": "無需登入",
+      "content": "Sprunki Infected 設計為可立即遊玩，無需建立帳戶或登入。您可以立即在瀏覽器中開始您的 Sprunki 冒險，無需提供個人識別資訊。"
+    }
+  }
+}
