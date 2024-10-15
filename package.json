@@ -1,13 +1,11 @@
 {
-  "name": "webgame",
+  "name": "sprunki-infected-v1",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "cli": "node scripts/cli.mjs"
+    "lint": "next lint"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
